@@ -18,3 +18,27 @@ nav:
 
 theme: 
   name: material
+  #主题设置
+  language: 'zh'
+  palette:
+    primary: 'pink'
+    accent: 'red'
+  include_search_page: false
+  search_index_only: true
+  feature:
+    tabs: true
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
+  
+#Markdown 语法扩展
+markdown_extensions:
+  - admonition #MkDocs 警告框
+  - footnotes #脚注
+  - pymdownx.caret #下划线
+  - pymdownx.mark #文本高亮
+  - pymdownx.tilde #删除线
+  - pymdownx.keys
+  - pymdownx.emoji: #更多emoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.smartsymbols
