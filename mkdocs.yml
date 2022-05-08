@@ -3,6 +3,9 @@ site_name: 白泽史料库-冷战
 site_description: 介绍冷战（1945-1991）发生的历史事件，并对部分重大历史事件进行评析
 site_author: FutureStand
 
+repo_name: FutureStand/BaiZe-ColdWar
+repo_url: https://github.com/FutureStand/BaiZe-ColdWar
+
 #目录，缩进表示子目录关系
 nav:
   - intro: index.md
