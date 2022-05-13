@@ -8,11 +8,11 @@ repo_url: https://github.com/FutureStand/BaiZe-ColdWar
 
 #目录，缩进表示子目录关系
 nav:
-  - intro: index.md
-  - 战后格局逐步形成:
-    - 百分比协定: './after_ww2/percentages.md'
-  - 冷战格局初现:
-    - 地缘政治:
+  - 序：对立的世界: index.md
+  - 向冷战奔去:
+    - 战后格局:
+      - 百分比协定: './after_ww2/percentages.md'
+    - 冷战格局初现:
       - 苏土海峡危机: './cold_war_come/turkey.md'
       - 希腊内战: './cold_war_come/greece_war.md'
 
