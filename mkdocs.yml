@@ -12,6 +12,7 @@ nav:
   - 向冷战奔去:
     - 战后格局:
       - 百分比协定: './after_ww2/percentages.md'
+      - 雅尔塔会议: './after_ww2/yalta.md'
     - 冷战格局初现:
       - 苏土海峡危机: './cold_war_come/turkey.md'
       - 希腊内战: './cold_war_come/greece_war.md'
@@ -50,4 +51,5 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences #开启注释功能
+  - pymdownx.details
   - md_in_html
