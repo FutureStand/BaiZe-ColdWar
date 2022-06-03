@@ -16,6 +16,7 @@ nav:
     - 冷战格局初现:
       - 苏土海峡危机: './cold_war_come/turkey.md'
       - 希腊内战: './cold_war_come/greece_war.md'
+      - 苏南交恶: './cold_war_come/yugoslavia.md'
 
 theme: 
   name: material

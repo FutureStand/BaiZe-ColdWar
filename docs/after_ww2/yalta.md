@@ -100,3 +100,7 @@
 ## 扩展阅读
 
 - [趣历史整理的雅尔塔会议专题](http://www.qulishi.com/huati/yaertahuiyi/)
+
+**影视资料**
+
+- [雅尔塔三巨头会面](https://www.bilibili.com/video/BV1BW411s7Xf)
