@@ -8,8 +8,8 @@ repo_url: https://github.com/FutureStand/BaiZe-ColdWar
 
 #目录，缩进表示子目录关系
 nav:
-  - 序：对立的世界: index.md
-  - 向冷战奔去:
+  - cold-war.md
+  - 向冷战奔去: 
     - 战后格局:
       - 百分比协定: './after_ww2/percentages.md'
       - 雅尔塔会议: './after_ww2/yalta.md'
@@ -31,6 +31,7 @@ theme:
     - content.code.annotate
     #返回顶部
     - navigation.top
+    - navigation.indexes
   font:
     text: 'Fira Sans'
     code: 'Fira Mono'
@@ -52,5 +53,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences #开启注释功能
+  - pymdownx.tabbed:
+      alternate_style: true 
   - pymdownx.details
   - md_in_html
