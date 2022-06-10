@@ -95,16 +95,16 @@
 
 - 《希腊内战：一场国际内战》， (加)安德烈·耶罗利玛托斯著，贺俊逸编，阙建容译，格致出版社，2021年3月版  
 - [Military  Wiki的希腊内战词条](https://military-history.fandom.com/wiki/Greek_Civil_War)  
-- [万维百科（国内审核过的维基百科）的希腊内战词条](https://www.wanweibaike.net/wiki-%E5%B8%8C%E8%85%8A%E5%86%85%E6%88%98)  
+- [万维百科的希腊内战词条](https://www.wanweibaike.net/wiki-%E5%B8%8C%E8%85%8A%E5%86%85%E6%88%98)  
 - [中青报关于宪法广场事件的采访](http://qnck.cyol.com/html/2014-12/17/nw.D110000qnck_20141217_1-13.htm)  
 - [趣历史整理的希腊内战专题](http://www.qulishi.com/huati/xlnz/)  
-- [希腊战线变化，但做的比较粗糙，用词也有些许偏颇](https://www.bilibili.com/video/BV1LW411C7dW)
-- [油管频道The Cold War制作的希腊内战介绍视频（B站转载）](https://www.bilibili.com/video/BV1kJ411s77B)
+- [希腊战线变化，但做的比较粗糙，用词也有些许误差](https://www.bilibili.com/video/BV1LW411C7dW)
+- [油管频道 The Cold War 制作的希腊内战介绍视频（B站转载）](https://www.bilibili.com/video/BV1kJ411s77B)
 
 **影视资料**
 
 - [雅典宪法广场事件](https://www.bilibili.com/video/BV1BE411w7mM)
-- [ELAS被解除武装](https://www.bilibili.com/video/BV1xx411272A)
+- [ELAS 被解除武装](https://www.bilibili.com/video/BV1xx411272A)
 - [希腊国王军](https://www.bilibili.com/video/BV1HE411a7qF)
 - [希腊内战部分片段]()
 - [电影《Ο ΑΝΘΡΩΠΟΣ ΜΕ ΤΟ ΓΑΡΥΦΑΛΛΟ》](https://www.bilibili.com/video/BV1P4411v7K2)

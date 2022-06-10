@@ -10,13 +10,17 @@ repo_url: https://github.com/FutureStand/BaiZe-ColdWar
 nav:
   - cold-war.md
   - 向冷战奔去: 
+    - 'chap1/index.md'
     - 战后格局:
-      - 百分比协定: './after_ww2/percentages.md'
-      - 雅尔塔会议: './after_ww2/yalta.md'
+      - 百分比协定: 'chap1/percentages.md'
+      - 雅尔塔会议: 'chap1/yalta.md'
+      - 波茨坦会议: 'chap1/potsdam.md'
     - 冷战格局初现:
-      - 苏土海峡危机: './cold_war_come/turkey.md'
-      - 希腊内战: './cold_war_come/greece_war.md'
-      - 苏南交恶: './cold_war_come/yugoslavia.md'
+      - 苏土海峡危机: 'chap1/turkey.md'
+      - 希腊内战: 'chap1/greece_war.md'
+      - 苏南交恶: 'chap1/yugoslavia.md'
+  - 对立的阵营:
+    - 'chap2/index.md'
 
 theme: 
   name: material
